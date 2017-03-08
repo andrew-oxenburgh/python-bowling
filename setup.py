@@ -14,7 +14,7 @@ setup(
     author = "Andrew Oxenburgh",
     author_email = "andrew.oxenburgh@gmail.com",
     description = ("my bowling thingy"),
-    license = "BSD",
+    license = "MIT",
     keywords = "example documentation tutorial",
     url = "http://packages.python.org/an_example_pypi_project",
     packages=['src'],
